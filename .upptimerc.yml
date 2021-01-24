@@ -4,7 +4,7 @@ repo: itclowd-uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Main-Site
+  - name: Website
     url: https://itclowd.de
   - name: Nextcloud
     url: https://nextcloud.itclowd.de
@@ -12,6 +12,13 @@ sites:
   - name: HedgeDoc
     url: https://pad.itclowd.de
     icon: https://hedgedoc.org/icons/favicon-32x32.png
+  - name: Matrix Homeserver
+    url: https://matrix.itclowd.de/_matrix/federation/v1/version
+    icon: https://element.io/images/favicon.png
+    method: GET
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "name": "Synapse" }'
   - name: Webmailer
     url: https://webmail.itclowd.de
 
