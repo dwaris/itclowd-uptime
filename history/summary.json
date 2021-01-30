@@ -4,9 +4,9 @@
     "url": "https://itclowd.de",
     "icon": "https://favicons.githubusercontent.com/itclowd.de",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 602,
     "timeMonth": 602,
     "timeYear": 602,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-30": 0
+    }
   },
   {
     "name": "Nextcloud",
     "url": "https://nextcloud.itclowd.de",
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png?x53054",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 1883,
     "timeMonth": 1883,
     "timeYear": 1883,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-30": 0
+    }
   },
   {
     "name": "HedgeDoc",
     "url": "https://pad.itclowd.de",
     "icon": "https://hedgedoc.org/icons/favicon-32x32.png",
     "slug": "hedge-doc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 661,
     "timeMonth": 661,
     "timeYear": 661,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-30": 0
+    }
   },
   {
     "name": "Matrix Homeserver",
     "url": "https://matrix.itclowd.de/_matrix/federation/v1/version",
     "icon": "https://element.io/images/favicon.png",
     "slug": "matrix-homeserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 471,
     "timeMonth": 471,
     "timeYear": 471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-30": 0
+    }
   },
   {
     "name": "Webmailer",
     "url": "https://webmail.itclowd.de",
     "icon": "https://favicons.githubusercontent.com/webmail.itclowd.de",
     "slug": "webmailer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +95,8 @@
     "timeWeek": 670,
     "timeMonth": 670,
     "timeYear": 670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-30": 0
+    }
   }
 ]
