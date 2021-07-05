@@ -1,7 +1,7 @@
 url: https://webmail.itclowd.de
-status: up
-code: 200
-responseTime: 554
-lastUpdated: 2021-07-04T23:14:48.509Z
+status: down
+code: 502
+responseTime: 423
+lastUpdated: 2021-07-05T21:28:52.261Z
 startTime: Sun Jan 24 2021 11:34:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
