@@ -20,7 +20,7 @@ sites:
       - "Content-Type: application/json"
     body: '{ "name": "Synapse" }'
   - name: Webmailer
-    url: https://webmail.itclowd.de
+    url: https://mail.itclowd.de
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
