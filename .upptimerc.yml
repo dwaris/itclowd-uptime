@@ -9,9 +9,9 @@ sites:
   - name: Nextcloud
     url: https://nextcloud.itclowd.de
     icon: https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png?x53054
-  - name: HedgeDoc
-    url: https://pad.itclowd.de
-    icon: https://hedgedoc.org/icons/favicon-32x32.png
+#  - name: HedgeDoc
+#    url: https://pad.itclowd.de
+#    icon: https://hedgedoc.org/icons/favicon-32x32.png
   - name: Matrix Homeserver
     url: https://matrix.itclowd.de/_matrix/federation/v1/version
     icon: https://element.io/images/favicon.png
