@@ -4,9 +4,9 @@
     "url": "https://itclowd.de",
     "icon": "https://icons.duckduckgo.com/ip3/itclowd.de.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 536,
     "timeYear": 572,
     "dailyMinutesDown": {
+      "2023-01-08": 0,
       "2022-07-12": 152,
       "2022-07-11": 2,
       "2022-05-06": 19
