@@ -1,7 +1,7 @@
 url: https://matrix.itclowd.de/_matrix/federation/v1/version
 status: up
 code: 200
-responseTime: 500
-lastUpdated: 2023-11-21T23:14:30.619Z
+responseTime: 414
+lastUpdated: 2023-11-22T23:13:40.983Z
 startTime: 2021-01-24T13:20:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
