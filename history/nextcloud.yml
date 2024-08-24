@@ -1,7 +1,7 @@
 url: https://nextcloud.itclowd.de
-status: up
-code: 200
-responseTime: 1551
-lastUpdated: 2024-08-23T23:15:02.328Z
+status: down
+code: 500
+responseTime: 718
+lastUpdated: 2024-08-24T06:55:33.749Z
 startTime: 2021-01-24T11:34:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
