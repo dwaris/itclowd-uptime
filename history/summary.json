@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/itclowd.de.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "87.10%",
     "uptimeWeek": "98.16%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.40%",
     "time": 522,
-    "timeDay": 520,
-    "timeWeek": 580,
-    "timeMonth": 569,
-    "timeYear": 524,
+    "timeDay": 438,
+    "timeWeek": 568,
+    "timeMonth": 568,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2024-12-12": 186,
       "2024-11-27": 96,
@@ -49,9 +49,9 @@
     "uptimeMonth": "98.48%",
     "uptimeYear": "98.83%",
     "time": 1377,
-    "timeDay": 1632,
-    "timeWeek": 1440,
-    "timeMonth": 1342,
+    "timeDay": 1637,
+    "timeWeek": 1426,
+    "timeMonth": 1343,
     "timeYear": 1385,
     "dailyMinutesDown": {
       "2024-12-12": 186,
@@ -90,8 +90,7 @@
       "2024-01-03": 80,
       "2023-12-26": 167,
       "2023-12-24": 36,
-      "2023-12-20": 271,
-      "2023-12-14": 25
+      "2023-12-20": 271
     }
   },
   {
@@ -106,8 +105,8 @@
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.32%",
     "time": 543,
-    "timeDay": 477,
-    "timeWeek": 546,
+    "timeDay": 461,
+    "timeWeek": 532,
     "timeMonth": 532,
     "timeYear": 566,
     "dailyMinutesDown": {
