@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "98.52%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "98.14%",
     "time": 537,
-    "timeDay": 595,
-    "timeWeek": 567,
-    "timeMonth": 559,
+    "timeDay": 691,
+    "timeWeek": 566,
+    "timeMonth": 560,
     "timeYear": 543,
     "dailyMinutesDown": {
       "2025-04-15": 36,
@@ -47,8 +47,7 @@
       "2024-07-23": 25,
       "2024-07-22": 241,
       "2024-07-21": 35,
-      "2024-05-03": 744,
-      "2024-04-23": 22
+      "2024-05-03": 744
     }
   },
   {
@@ -59,14 +58,14 @@
     "status": "up",
     "uptime": "99.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "95.11%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.00%",
     "uptimeYear": "96.72%",
     "time": 1405,
-    "timeDay": 1447,
-    "timeWeek": 1223,
-    "timeMonth": 1274,
-    "timeYear": 1356,
+    "timeDay": 1442,
+    "timeWeek": 1349,
+    "timeMonth": 1287,
+    "timeYear": 1357,
     "dailyMinutesDown": {
       "2025-04-15": 107,
       "2025-03-24": 372,
@@ -118,8 +117,7 @@
       "2024-07-10": 470,
       "2024-07-09": 63,
       "2024-07-04": 17,
-      "2024-05-03": 743,
-      "2024-04-23": 22
+      "2024-05-03": 743
     }
   },
   {
@@ -130,14 +128,14 @@
     "status": "up",
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "98.56%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "98.11%",
     "time": 557,
-    "timeDay": 673,
-    "timeWeek": 572,
-    "timeMonth": 536,
-    "timeYear": 514,
+    "timeDay": 554,
+    "timeWeek": 598,
+    "timeMonth": 533,
+    "timeYear": 515,
     "dailyMinutesDown": {
       "2025-04-15": 36,
       "2025-03-24": 372,
@@ -171,8 +169,7 @@
       "2024-07-23": 23,
       "2024-07-22": 240,
       "2024-07-21": 34,
-      "2024-05-03": 743,
-      "2024-04-23": 21
+      "2024-05-03": 743
     }
   }
 ]
