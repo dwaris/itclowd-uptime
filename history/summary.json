@@ -11,9 +11,9 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "97.17%",
     "time": 548,
-    "timeDay": 456,
-    "timeWeek": 524,
-    "timeMonth": 582,
+    "timeDay": 524,
+    "timeWeek": 511,
+    "timeMonth": 576,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2025-08-18": 135,
@@ -66,9 +66,9 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "96.18%",
     "time": 1388,
-    "timeDay": 1031,
-    "timeWeek": 1104,
-    "timeMonth": 1217,
+    "timeDay": 1130,
+    "timeWeek": 1081,
+    "timeMonth": 1208,
     "timeYear": 1398,
     "dailyMinutesDown": {
       "2025-08-18": 135,
@@ -121,8 +121,7 @@
       "2024-10-07": 504,
       "2024-10-06": 87,
       "2024-09-26": 25,
-      "2024-09-22": 68,
-      "2024-09-16": 45
+      "2024-09-22": 68
     }
   },
   {
@@ -131,15 +130,15 @@
     "icon": "https://element.io/images/favicon.png",
     "slug": "matrix-homeserver",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "97.35%",
     "time": 523,
-    "timeDay": 452,
-    "timeWeek": 495,
-    "timeMonth": 555,
+    "timeDay": 550,
+    "timeWeek": 481,
+    "timeMonth": 551,
     "timeYear": 534,
     "dailyMinutesDown": {
       "2025-08-18": 362,
