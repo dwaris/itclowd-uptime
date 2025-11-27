@@ -6,14 +6,14 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "93.52%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "97.35%",
+    "uptimeYear": "97.37%",
     "time": 560,
-    "timeDay": 582,
-    "timeWeek": 528,
-    "timeMonth": 571,
+    "timeDay": 453,
+    "timeWeek": 524,
+    "timeMonth": 567,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2025-11-25": 93,
@@ -46,8 +46,7 @@
       "2025-01-10": 535,
       "2024-12-24": 635,
       "2024-12-23": 75,
-      "2024-12-12": 186,
-      "2024-11-27": 96
+      "2024-12-12": 186
     }
   },
   {
@@ -57,14 +56,14 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "93.55%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "96.52%",
+    "uptimeYear": "96.54%",
     "time": 1369,
-    "timeDay": 1217,
-    "timeWeek": 1153,
-    "timeMonth": 1165,
+    "timeDay": 1044,
+    "timeWeek": 1146,
+    "timeMonth": 1158,
     "timeYear": 1381,
     "dailyMinutesDown": {
       "2025-11-25": 93,
@@ -108,8 +107,7 @@
       "2025-01-10": 558,
       "2024-12-24": 635,
       "2024-12-23": 344,
-      "2024-12-12": 186,
-      "2024-11-27": 348
+      "2024-12-12": 186
     }
   },
   {
@@ -119,15 +117,15 @@
     "slug": "matrix-homeserver",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "93.58%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "97.54%",
+    "uptimeYear": "97.56%",
     "time": 532,
-    "timeDay": 559,
-    "timeWeek": 536,
-    "timeMonth": 555,
-    "timeYear": 535,
+    "timeDay": 444,
+    "timeWeek": 531,
+    "timeMonth": 548,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2025-11-25": 93,
       "2025-08-18": 362,
@@ -157,8 +155,7 @@
       "2025-01-28": 25,
       "2025-01-10": 535,
       "2024-12-12": 186,
-      "2024-12-01": 23,
-      "2024-11-27": 96
+      "2024-12-01": 23
     }
   }
 ]
