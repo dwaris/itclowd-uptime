@@ -6,14 +6,14 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "98.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.75%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "97.64%",
-    "time": 563,
-    "timeDay": 498,
-    "timeWeek": 533,
-    "timeMonth": 543,
+    "time": 562,
+    "timeDay": 457,
+    "timeWeek": 520,
+    "timeMonth": 539,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2026-02-13": 29,
@@ -43,8 +43,7 @@
       "2025-03-10": 614,
       "2025-03-07": 506,
       "2025-03-06": 122,
-      "2025-02-17": 342,
-      "2025-02-15": 571
+      "2025-02-17": 342
     }
   },
   {
@@ -54,14 +53,14 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "98.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.49%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "97.03%",
     "time": 1347,
-    "timeDay": 1200,
-    "timeWeek": 1237,
-    "timeMonth": 1178,
+    "timeDay": 1013,
+    "timeWeek": 1216,
+    "timeMonth": 1170,
     "timeYear": 1338,
     "dailyMinutesDown": {
       "2026-02-13": 29,
@@ -100,8 +99,7 @@
       "2025-02-24": 232,
       "2025-02-21": 1049,
       "2025-02-20": 71,
-      "2025-02-17": 656,
-      "2025-02-15": 615
+      "2025-02-17": 656
     }
   },
   {
@@ -111,14 +109,14 @@
     "slug": "matrix-homeserver",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "98.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.49%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "97.70%",
-    "time": 533,
-    "timeDay": 503,
-    "timeWeek": 530,
-    "timeMonth": 527,
+    "time": 532,
+    "timeDay": 456,
+    "timeWeek": 528,
+    "timeMonth": 521,
     "timeYear": 535,
     "dailyMinutesDown": {
       "2026-02-13": 29,
@@ -146,8 +144,7 @@
       "2025-03-11": 27,
       "2025-03-10": 658,
       "2025-03-07": 506,
-      "2025-03-06": 122,
-      "2025-02-15": 571
+      "2025-03-06": 122
     }
   }
 ]
