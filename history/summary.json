@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/itclowd.de.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "97.82%",
-    "time": 562,
-    "timeDay": 449,
-    "timeWeek": 486,
-    "timeMonth": 524,
+    "time": 561,
+    "timeDay": 536,
+    "timeWeek": 491,
+    "timeMonth": 523,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2026-02-13": 29,
@@ -57,10 +57,10 @@
     "uptimeMonth": "99.42%",
     "uptimeYear": "97.27%",
     "time": 1344,
-    "timeDay": 914,
-    "timeWeek": 1100,
-    "timeMonth": 1142,
-    "timeYear": 1344,
+    "timeDay": 1170,
+    "timeWeek": 1103,
+    "timeMonth": 1140,
+    "timeYear": 1343,
     "dailyMinutesDown": {
       "2026-02-13": 29,
       "2026-02-10": 224,
@@ -96,8 +96,7 @@
       "2025-03-06": 313,
       "2025-03-05": 234,
       "2025-02-24": 232,
-      "2025-02-21": 1049,
-      "2025-02-20": 71
+      "2025-02-21": 1049
     }
   },
   {
@@ -112,9 +111,9 @@
     "uptimeMonth": "99.42%",
     "uptimeYear": "97.81%",
     "time": 532,
-    "timeDay": 438,
-    "timeWeek": 479,
-    "timeMonth": 509,
+    "timeDay": 546,
+    "timeWeek": 483,
+    "timeMonth": 508,
     "timeYear": 535,
     "dailyMinutesDown": {
       "2026-02-13": 29,
