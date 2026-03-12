@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/itclowd.de.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "98.05%",
+    "uptimeYear": "98.06%",
     "time": 562,
-    "timeDay": 556,
-    "timeWeek": 535,
-    "timeMonth": 550,
+    "timeDay": 655,
+    "timeWeek": 568,
+    "timeMonth": 552,
     "timeYear": 557,
     "dailyMinutesDown": {
       "2026-02-13": 29,
@@ -37,8 +37,7 @@
       "2025-03-22": 223,
       "2025-03-16": 391,
       "2025-03-14": 510,
-      "2025-03-13": 1440,
-      "2025-03-12": 503
+      "2025-03-13": 1440
     }
   },
   {
@@ -51,12 +50,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "97.88%",
+    "uptimeYear": "98.05%",
     "time": 1336,
-    "timeDay": 1008,
-    "timeWeek": 967,
-    "timeMonth": 1119,
-    "timeYear": 1278,
+    "timeDay": 1178,
+    "timeWeek": 1003,
+    "timeMonth": 1111,
+    "timeYear": 1279,
     "dailyMinutesDown": {
       "2026-02-13": 29,
       "2026-02-10": 224,
@@ -83,8 +82,7 @@
       "2025-03-16": 509,
       "2025-03-15": 5,
       "2025-03-14": 527,
-      "2025-03-13": 945,
-      "2025-03-12": 64
+      "2025-03-13": 945
     }
   },
   {
@@ -97,11 +95,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "98.05%",
-    "time": 534,
-    "timeDay": 591,
-    "timeWeek": 539,
-    "timeMonth": 544,
+    "uptimeYear": "98.07%",
+    "time": 535,
+    "timeDay": 663,
+    "timeWeek": 557,
+    "timeMonth": 546,
     "timeYear": 536,
     "dailyMinutesDown": {
       "2026-02-13": 29,
@@ -124,8 +122,7 @@
       "2025-03-22": 223,
       "2025-03-16": 392,
       "2025-03-14": 511,
-      "2025-03-13": 1440,
-      "2025-03-12": 1337
+      "2025-03-13": 1440
     }
   }
 ]
